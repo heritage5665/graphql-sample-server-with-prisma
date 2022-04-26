@@ -1,0 +1,14 @@
+{
+  "name": "dabaTestBackend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@prisma/client": "^3.12.0",
+    "apollo-server": "^2",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^14.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "prisma": "^3.12.0"
+  }
+}
